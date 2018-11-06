@@ -15,5 +15,19 @@
 - **Cable de datos:** transmite las datos de la cámara hacia la computadora.
 - **Cubierta:** protege los circuitos internos y le da estética al producto.
 
+## Tipos mas conocidos
+-**Logitech Quickcam Pro 9000**
+![Logitech Quickcam Pro 9000](http://www.traditionalcatholic.info/es/webcam-o-camara-web/webcam_logitech_quickcam_messenger_oem.jpg)
+
+-**AXIS 215 PTZ Network Camera**
+![AXIS 215 PTZ Network Camera](http://www.traditionalcatholic.info/es/webcam-o-camara-web/logitech.jpg)
+
+Es una cámara con visión día/noche que tiene un diseño compacto que proporciona protección contra manipulaciones.
+Mayormente se usa en comercios, recepciones, bancos y otras instalaciones, en las que necesita tanto visión completa como la posibilidad de ampliar para realizar inspecciones detalladas.
+
+-**D-Link SECURICAM DCS-910 10/100 Fast Ethernet Internet Camera**
+![D-Link SECURICAM DCS-910 10/100 Fast Ethernet Internet Camera](http://www.traditionalcatholic.info/es/webcam-o-camara-web/axis.jpg)
+
+Equipada con su propio servidor Web, esta cámara IP se conecta a una red doméstica para transferir imágenes en tiempo real a través de Internet a cualquier ordenador equipado con un navegador Web. A diferencia de una Webcam, no necesita un ordenador para funcionar.
 
  
